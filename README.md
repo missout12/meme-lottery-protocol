@@ -78,46 +78,47 @@ Program invoked: Token Program -> Transfer ✅
 
 
 
-🧱 Tech Stack
+---
 
-⚙️ Smart Contract: Solana Program Library (Rust) + Anchor Framework
+## 🔗 Explore on Solana Devnet
 
-🔮 Randomness: Switchboard Oracle
+- 🌐 **Pool Account:** [View on Solana Explorer](https://explorer.solana.com/address/Ci7HqRyoHeD6ytkVhW9JYVHjehKbdWx8VzGYEtEewARm?cluster=devnet)  
+- 🧾 **Final Transaction:** [View on Solana Explorer](https://explorer.solana.com/tx/CT1NBEjiFzzjTS2ot6urvNeLdEsqZRYr?cluster=devnet)
 
-🤖 Bot Integration: Telegram Bot API (Node.js / Python)
+---
 
-🪙 Client: TypeScript SDK for Solana transactions
+## 🧱 Tech Stack
 
-🗄️ Database: Prisma + PostgreSQL
+- ⚙️ **Smart Contract:** Solana Program Library (Rust) + Anchor Framework  
+- 🔮 **Randomness:** Switchboard Oracle  
+- 🤖 **Bot Integration:** Telegram Bot API (Node.js / Python)  
+- 🪙 **Client:** TypeScript SDK for Solana transactions  
+- 🗄️ **Database:** Prisma + PostgreSQL  
 
+---
 
+## 🗺️ Roadmap
 
-🗺️ Roadmap
+- ✅ Smart contract core  
+- ✅ Pool creation / joining / cancel logic  
+- ✅ Randomness & payout  
+- 🚧 Referral system *(in development)*  
+- 🚧 Frontend / dashboard *(in development)*  
+- 🧪 Public testnet launch  
+- 🌐 Mainnet deployment  
 
-✅ Smart contract core
+---
 
-✅ Pool creation / joining / cancel logic
+## 👨‍💻 Author
 
-✅ Randomness & payout
+**Alabasta — Web3 Developer**  
+- 🐦 X: [@missoutl](https://x.com/missoutl)  
+- 📢 Telegram Winners Channel: [MissOut Winners](https://t.me/your_winner_channel) *(replace with your real link)*
 
-🚧 Referral system (in development)
+---
 
-🚧 Frontend / dashboard (in development)
+## 📜 License
 
-🧪 Public testnet launch
+**MIT License** – free to use, modify, and contribute.
 
-🌐 Mainnet deployment
-
-
-👨‍💻 Author
-
-Alabasta — Web3 Developer
-
-🐦 X: @missoutl
-
-📢 Telegram Winners Channel: MissOut Winners
- (replace with actual link)
-
-📜 License
-
-MIT License – free to use, modify, and contribute.
+---
